@@ -38,13 +38,6 @@ Duniya Mausam (meaning "World Weather") is a **real-time climate intelligence pl
 - **Data Export** capabilities for personal tracking
 - **Share Reports** with family and friends
 
-### 🎨 Modern User Experience
-- **Multilingual Support** (Hindi & English)
-- **Dark Theme** optimized for comfortable viewing
-- **Responsive Design** works on all devices
-- **Real-time Updates** with auto-refresh options
-- **Favorites System** for quick access to multiple locations
-
 ## 🚀 Getting Started
 
 ### Prerequisites
